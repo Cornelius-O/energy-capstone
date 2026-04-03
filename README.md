@@ -20,3 +20,6 @@ Python · SQL · Pandas · Matplotlib · Tableau · Prophet
 ## Data Sources
 - Our World in Data (OWID)
 - EIA (U.S. Energy Information Administration)
+
+The OWID energy dataset is not included due to file size. 
+Download it free from: https://ourworldindata.org/energy
